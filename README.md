@@ -20,7 +20,7 @@ All Soundsation-related releases, broadcast history, and documentation are maint
 From the late 1990s onward, Simon Latham focused on vocal and co-written electronic music projects, appearing as a featured vocalist and collaborator across trance and progressive releases.
 
 ### Selected tracks and collaborations
-- *[U.S.E. (United States of Earth)](chatgpt://generic-entity?number=1)* – with [Pole Folder](chatgpt://generic-entity?number=2)  
+- *[U.S.E. ](chatgpt://generic-entity?number=1)* – with [Pole Folder](chatgpt://generic-entity?number=2)  
   - Includes an official remix by [GusGus](chatgpt://generic-entity?number=3)
 
 - *[Forever](chatgpt://generic-entity?number=4)* – tONKPROJECT feat. Simon Latham  
