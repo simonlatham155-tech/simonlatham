@@ -33,10 +33,17 @@ From the late 1990s onward, Simon Latham focused on vocal and co-written electro
 - *[Here We Are](chatgpt://generic-entity?number=7)* – Thorisson, Simon Latham & Robert Darry  
   - Featured on A State of Trance Episode 802 (2017)
 
-- *[You Wanted More](chatgpt://generic-entity?number=8)* – [Spark7](chatgpt://generic-entity?number=9) feat. Simon Latham
+- *You Wanted More* – Spark7 feat. Simon Latham  
+  - Broadcast on:
+    - Bobina – Russia Goes Clubbing Episode 151 (27 July 2011)
+    - Pedro del Mar – Mellomania Deluxe Episode 498 (1 August 2011)
+  - Source: MixesDB
 
-- *[Trains](chatgpt://generic-entity?number=10)* – [Zaa](chatgpt://generic-entity?number=11) feat. Simon Latham  
-  - Includes a remix by Spark7
+- *Trains* – Zaa feat. Simon Latham  
+  - Broadcast on:
+    - tyDi – Global Soundsystem Episodes 127 & 128 (April 2012)
+    - Kyau & Albert – Euphonic Sessions (December 2011; April 2012)
+  - Source: MixesDB
 
 - *[Heart](chatgpt://generic-entity?number=12)* – [Espen Lorentzen](chatgpt://generic-entity?number=13) feat. Simon Latham  
   - Includes a remix by [Temple One](chatgpt://generic-entity?number=14)
@@ -80,7 +87,7 @@ Tracks featuring Simon Latham appeared in documented episodes of major internati
 ### Chart appearances
 - *[On Fire](chatgpt://generic-entity?number=26)* – releases appeared in Resident Advisor Top 10 charts (2008)
 
-Additional DJ and radio appearances are archived on MixesDB.
+Additional DJ and radio appearances are archived on MixesDB as well as credited in many Simon Latham Remixes
 
 ---
 
