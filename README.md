@@ -1,6 +1,6 @@
 # Simon Latham
 
-[Simon Latham](chatgpt://generic-entity?number=0) is a UK electronic music producer active since the mid-1990s. His work spans trance, progressive electronic music, vocal-led collaborations, remix work, and solo releases, with documented radio, chart, and DJ support across Europe and the United States.
+[Simon Latham](chatgpt://generic-entity?number=0) is a UK electronic music producer active since the 1990s. His work spans trance, progressive electronic music, vocal-led collaborations, remix work, and solo releases, with documented radio, chart, and DJ support across Europe and the United States.
 
 ---
 
