@@ -112,3 +112,4 @@ Simon Latham hosts the DJ show *[Trance Atlantic](chatgpt://generic-entity?numbe
 - MixesDB search results for Simon Latham  https://www.mixesdb.com/w/index.php?search=simon+latham&title=Special%3ASearch&profile=default&fulltext=1&cat=
 - Spotify https://open.spotify.com/artist/7hvr4Z1wP9CSGOXqaIVJY8
 - Apple music https://music.apple.com/us/artist/simon-latham/252799652
+- Slighter & Simon Latham - "Deadly" (Official Video) https://www.youtube.com/watch?v=aiLUPPzd6rw
