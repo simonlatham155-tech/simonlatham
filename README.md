@@ -97,6 +97,14 @@ Simon Latham hosts the DJ show *[Trance Atlantic](chatgpt://generic-entity?numbe
 
 ---
 
+## Film & Television
+
+- *"Deadly"* – Slighter & Simon Latham  
+  Featured in Lethal Weapon (FOX Network, Season 1 | E6 | Ties That Bind)  
+  Role: Lyrics, vocals, co-writer
+
+---
+
 ## Sources
 
 - Discogs artist and release listings  https://www.discogs.com/artist/134977-Simon-Latham
