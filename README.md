@@ -97,6 +97,12 @@ Simon Latham hosts the DJ show *[Trance Atlantic](chatgpt://generic-entity?numbe
 
 ---
 
+## Independent Work
+
+From 2007, Simon Latham founded and operated *Airport Route Recordings*, an independent imprint used to release his solo material and selected collaborative projects. The label primarily served as a vehicle for self-released albums and experimental work outside the major label system.
+
+---
+
 ## Film & Television
 
 - *"Deadly"* – Slighter & Simon Latham  
