@@ -1,4 +1,4 @@
-Simon Latham
+#Simon Latham
 
 Simon Latham is a UK electronic music producer and songwriter active since the 1990s. His work spans progressive house, trance, vocal-led electronic collaborations, remix production, and independent solo releases.
 
@@ -6,7 +6,7 @@ He is associated with documented BBC Radio 1 broadcasts, international DJ suppor
 
 ⸻
 
-Early Career
+##Early Career
 
 Simon Latham was a member of the UK progressive house project Soundsation during the mid-1990s.
 
@@ -16,11 +16,11 @@ Complete documentation of that period — including releases, broadcast history,
 
 ⸻
 
-Late 1990s–2000s: Vocal and Collaborative Work
+##Late 1990s–2000s: Vocal and Collaborative Work
 
 From the late 1990s onward, Latham focused on vocal-led and co-written electronic music, appearing as a featured vocalist and collaborator across trance and progressive releases.
 
-Selected Collaborations
+###Selected Collaborations
 	•	U.S.E. – with Pole Folder
 	•	Includes official remix by GusGus
 	•	Forever – tONKPROJECT feat. Simon Latham
@@ -51,11 +51,11 @@ Selected Collaborations
 
 ⸻
 
-Solo Albums (Airport Route Recordings)
+##Solo Albums (Airport Route Recordings)
 
 Between 2008 and 2015, Simon Latham released a series of independently managed solo albums via his imprint Airport Route Recordings.
 
-Discography
+###Discography
 	•	Left Right Of Centre (2008)
 	•	Watertight (2009)
 	•	ibreathe (2012)
@@ -65,9 +65,9 @@ Airport Route Recordings served as an independent vehicle for album-format relea
 
 ⸻
 
-Radio & DJ Support (2008–2017)
+##Radio & DJ Support (2008–2017)
 
-Tracks featuring Simon Latham appeared in documented episodes of:
+###Tracks featuring Simon Latham appeared in documented episodes of:
 	•	A State of Trance
 	•	Future Sound of Egypt (Aly & Fila)
 	•	Planet Perfecto and Full On Fluoro (Paul Oakenfold)
@@ -77,27 +77,27 @@ Tracks featuring Simon Latham appeared in documented episodes of:
 	•	Euphonic Sessions (Kyau & Albert)
 	•	Proton Radio programming
 
-Chart Mentions
+###Chart Mentions
 	•	On Fire – Appeared in Resident Advisor Top 10 Charts (2008)
 
-Additional DJ and radio appearances are archived on MixesDB and Discogs.
+###Additional DJ and radio appearances are archived on MixesDB and Discogs.
 
 ⸻
 
-Broadcast & Media
+##Broadcast & Media
 	•	“Deadly” – Slighter & Simon Latham
 Featured in Lethal Weapon (FOX Network, Season 1, Episode 6)
 Role: Lyrics, vocals, co-writer
 
 ⸻
 
-DJ Activity
+##DJ Activity
 
 Simon Latham hosts the DJ show Trance Atlantic, which has accumulated approximately 30,000 plays across platforms.
 
 ⸻
 
-Sources
+##Sources
 	•	Discogs Artist Page
 https://www.discogs.com/artist/134977-Simon-Latham
 	•	A State of Trance Episode 424
@@ -115,7 +115,7 @@ https://www.youtube.com/watch?v=aiLUPPzd6rw
 
 ⸻
 
-Structural Note
+##Structural Note
 
 This page documents collaborative, solo, and broadcast activity.
 The Soundsation period (1994–1998) is archived separately to maintain clear historical distinction.
