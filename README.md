@@ -116,10 +116,10 @@ Released via Airport Route Recordings:
 
 ## Additional Work
 
-Track: “Deadly” – Slighter & Simon Latham
-Placement: Lethal Weapon
-Episode: Season 1, Episode 6 (“Ties That Bind”)
-Role: lyrics / vocals / co-writer
+## Film & Television
+
+- “Deadly” – Slighter & Simon Latham  
+  → EP 6 release and featured in *Lethal Weapon* (FOX TV series 1)
 
 - Host of **Trance Atlantic**
   - ~30,000 accumulated plays
