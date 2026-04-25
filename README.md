@@ -1,139 +1,141 @@
 # Simon Latham
 
-Simon Latham is a UK electronic music producer and songwriter active since the 1990s. His work spans progressive house, trance, vocal-led collaborations, remix production, and independently released solo material.
+<img width="1279" height="689" alt="468308255_10162493781588336_3926492237801054751_n" src="https://github.com/user-attachments/assets/ea290178-d244-4508-a712-e14c311327d2" />
 
-He is associated with documented BBC Radio 1 broadcasts, international DJ support, and long-term activity across both label and independent electronic music networks.
-
----
-
-## Early Career
-
-Simon Latham was a member of the UK progressive house project *Soundsation* during the mid-1990s.
-
-Complete documentation of that period — including releases, broadcast history, and archival references — is maintained here:
-
-🔗 https://simonlatham155-tech.github.io/soundsation-archive/
+Electronic artist active across three decades, from the UK progressive house era to modern trance and vocal-led collaborations.
 
 ---
 
-## Late 1990s–2000s: Vocal and Collaborative Work
+## Selected Highlights
 
-From the late 1990s onward, Latham focused on vocal-led and co-written electronic music projects, appearing as a featured vocalist and collaborator across trance and progressive releases.
-
----
-
-## Selected Collaborations
-
-- *U.S.E.* – with Pole Folder  
-  - Includes official remix by GusGus  
-
-- *Forever* – tONKPROJECT feat. Simon Latham  
-  - Released on Proton Music  
-
-- *What Do You See* – DJ Eco feat. Simon Latham  
-  - Featured on A State of Trance Episode 424 (2009)  
-  - Included on Armada – Best Vocalist of 2012  
-
-- *Here We Are* – Thorisson, Simon Latham & Robert Darry  
-  - Featured on A State of Trance Episode 802 (2017)  
-
-- *You Wanted More* – Spark7 feat. Simon Latham  
-  - Broadcast on Bobina – Russia Goes Clubbing (Episode 151)  
-  - Broadcast on Pedro del Mar – Mellomania Deluxe (Episode 498)  
-
-- *Trains* – Zaa feat. Simon Latham  
-  - Broadcast on tyDi – Global Soundsystem  
-  - Broadcast on Kyau & Albert – Euphonic Sessions  
-
-- *Heart* – Espen Lorentzen feat. Simon Latham  
-  - Includes remix by Temple One  
-
-- *The Days Our Lives Turned* – Vitodito feat. Simon Latham  
-  - Documented DJ support from Paul Oakenfold  
-
-- *Falling* – Maksim Palmaxs feat. Simon Latham  
-  - Documented DJ support from Paul Oakenfold  
-
-- *The Light Inside*  
-  - Included on the Rielism compilation series (curated by Sied van Riel)
+### Soundsation – “Do You Feel It”
+- BBC Radio 1 (*Essential Selection: Best of 1996*)
+- Named by John Digweed as one of his favourite records of the year
+- Later described by Pete Tong as “John Digweed’s big tune of ’96”
+- UK Dance Chart #39 / UK Independent Chart #25
+- Update Club Chart #48 (DJ returns)
+- Picked up by Stress Records following early demand
 
 ---
 
-## 2008–2015: Solo Albums and Independent Releases
-
-Simon Latham released a series of solo albums via his own imprint, *Airport Route Recordings*, used for independently managed projects.
-
-### Solo Albums
-
-- Left Right Of Centre (2008)  
-- Watertight (2009)  
-- ibreathe (2012)  
-- Inside The Mind Of A Man (2015)
+### Soundsation – “New Direction” (1998)
+- BBC Radio 1 (Judge Jules Show, 3 consecutive broadcasts)
+- Marked an early shift from progressive house toward melodic, vocal-led trance
 
 ---
 
-## Radio and DJ Support (2008–2017)
-
-Tracks featuring Simon Latham appeared in documented episodes of:
-
-- *A State of Trance*
-- *Future Sound of Egypt* (Aly & Fila)
-- *Planet Perfecto / Full On Fluoro* (Paul Oakenfold)
-- *GO On Air* (Giuseppe Ottaviani)
-- *Music For Balearic People* (Roger Shah)
-- *Russia Goes Clubbing* (Bobina)
-- *Euphonic Sessions* (Kyau & Albert)
-- *Proton Radio*
+### Pole Folder & Simon Latham – *Human EP*
+- Includes remix by GusGus
+- International DJ support
 
 ---
 
-## Chart Appearances
-
-- Releases appeared in *Resident Advisor Top 10 charts* (2008)
-
----
-
-## DJ and Broadcast Activity
-
-Simon Latham hosts the DJ show *Trance Atlantic*, with approximately 30,000 accumulated plays.
+### DJ Eco – “What Do You See” (feat. Simon Latham)
+- *A State of Trance* Episode 424 (2009)
+- Included on Armada *Best Vocalist of 2012*
 
 ---
 
-## Independent Label Activity
-
-From 2007, Simon Latham founded and operated *Airport Route Recordings*, an independent imprint used to release solo material and selected collaborations.
-
-The label functioned primarily as a vehicle for self-managed projects outside the major label system.
+### Ari Kyle & Audioscape – “Never Far” (feat. Simon Latham)
+- Featured on *In Search of Sunrise 12: Dubai* (2014)
 
 ---
 
-## Film and Television
-
-- *"Deadly" – Slighter & Simon Latham*  
-  Featured in Lethal Weapon (FOX Network, Season 1, Episode 6 – "Ties That Bind")  
-  Role: Lyrics, vocals, co-writer  
+### Thorisson, Simon Latham & Robert Darry – “Here We Are”
+- Played on *A State of Trance* Episode 802
 
 ---
 
-## Documentation and References
+## Early Career (1990s)
 
-- Discogs  
-  https://www.discogs.com/artist/134977-Simon-Latham  
+Simon Latham was a member of the UK progressive house project Soundsation.
 
-- A State of Trance Episode 424  
-  https://www.astateoftrance.com/episode-424/  
+This period includes:
+- BBC Radio 1 support (John Digweed, Pete Tong, Judge Jules)
+- UK chart placements
+- DJ press coverage and club chart presence
+- Releases on SOS Recordings and Stress Records
 
-- A State of Trance Episode 802  
-  https://www.astateoftrance.com/a-state-of-trance-episode-802/  
+Full archive:
+https://simonlatham155-tech.github.io/soundsation-archive/
 
-- MixesDB Search  
-  https://www.mixesdb.com/w/index.php?search=simon+latham&title=Special%3ASearch  
+---
 
-- Spotify  
-  https://open.spotify.com/artist/7hvr4Z1wP9CSGOXqaIVJY8  
+## Vocal Collaborations & Features
 
-- Apple Music  
-  https://music.apple.com/us/artist/simon-latham/252799652  
+Selected work as a featured vocalist and co-writer:
 
-- "Deadly" Official Video  
-  https://www.youtube.com/watch?v=aiLUPPzd6rw  
+- DJ Eco – “What Do You See”
+- Thorisson, Simon Latham & Robert Darry – “Here We Are”
+- Ari Kyle & Audioscape – “Never Far”
+- Espen Lorentzen – “The Light Inside (Dub Mix)” *(Rielism)*
+- Vitaly Beskrovny – “If I…” *(Tranquillity State)*
+- tONKPROJECT – “Forever (Ingi’s BackRoom Mix)”
+- Spark7 – “You Wanted More”
+- Zaa – “Trains”
+- Vitodito – “The Days Our Lives Turned”
+- Maksim Palmaxs – “Falling”
+
+Supported on:
+- A State of Trance
+- Future Sound of Egypt
+- Planet Perfecto (Paul Oakenfold)
+- Euphonic Sessions
+- Russia Goes Clubbing
+- Mellomania Deluxe
+- Proton Radio
+
+---
+
+## Solo Work (2008–2015)
+
+Released via Airport Route Recordings:
+
+- *Left Right Of Centre* (2008)
+- *Watertight* (2009)
+- *ibreathe* (2012)
+- *Inside The Mind Of A Man* (2015)
+
+---
+
+## Remix & Production Work
+
+- Remix production across progressive and trance releases
+- Includes work with Birgitta Haukdal (Eurovision 2003)
+
+---
+
+## Broadcast & Media
+
+- Tracks featured on major platforms including *A State of Trance*
+- Profiled in Iceland’s national newspaper *Morgunblaðið*
+- Featured in DJ press including *BPM Magazine*
+
+---
+
+## Additional Work
+
+- Host of **Trance Atlantic**
+  - ~30,000 accumulated plays
+
+---
+
+## Links
+
+Discogs  
+https://www.discogs.com/artist/134977-Simon-Latham
+
+A State of Trance Episode 424  
+https://www.astateoftrance.com/episode-424/
+
+A State of Trance Episode 802  
+https://www.astateoftrance.com/a-state-of-trance-episode-802/
+
+MixesDB  
+https://www.mixesdb.com/w/index.php?search=simon+latham
+
+Spotify  
+https://open.spotify.com/artist/7hvr4Z1wP9CSGOXqaIVJY8
+
+Apple Music  
+https://music.apple.com/us/artist/simon-latham/252799652<img width="1279" height="689" alt="468308255_10162493781588336_3926492237801054751_n" src="https://github.com/user-attachments/assets/7414f3a5-12f1-440b-85cc-a2fd27366a47" />
