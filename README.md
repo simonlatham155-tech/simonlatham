@@ -118,8 +118,8 @@ Released via Airport Route Recordings:
 
 ## Label
 
-Airport Route recordings (2007-2017)
-During the Airport Route Recordings period, several artists connected to the label went on to wider recognition. Early releases under the alias Kid Mistik (later known as Bjarki) appeared within the same Reykjavík scene, while Johann Stone, who was also part of the label’s catalogue, later went on to remix Gaia.
+Airport Route Recordings (2007–2017)
+Airport Route Recordings released projects including the *Audio 101: Reykjavik* compilation, featuring early material from artists such as Johann Stone and Kid Mistik (later known as Bjarki).
 
 ## Film & Television
 
