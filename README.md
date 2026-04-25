@@ -39,7 +39,7 @@ Electronic artist active across three decades, from the UK progressive house era
 - Featured on *In Search of Sunrise 12: Dubai* (2014)
 
 ---
-<img width="1000" height="450
+<img width="1000" height="300
   " alt="2bf6bd61-a618-49b8-b93f-053a24fdd2dc" src="https://github.com/user-attachments/assets/240cacff-40a2-4890-afe0-036130227af6" />
 
 ---
