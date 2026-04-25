@@ -27,7 +27,7 @@ Electronic artist active across three decades, from the UK progressive house era
 
 ### Pole Folder & Simon Latham – *Human EP*
 - Includes remix by GusGus
-- International DJ support
+- Supported internationally, including chart support from Hernán Cattáneo
 
 ---
 
