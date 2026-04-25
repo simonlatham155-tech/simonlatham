@@ -139,4 +139,4 @@ Spotify
 https://open.spotify.com/artist/7hvr4Z1wP9CSGOXqaIVJY8
 
 Apple Music  
-https://music.apple.com/us/artist/simon-latham/252799652<img width="1279" height="689" alt="468308255_10162493781588336_3926492237801054751_n" src="https://github.com/user-attachments/assets/7414f3a5-12f1-440b-85cc-a2fd27366a47" />
+https://music.apple.com/us/artist/simon-latham/252799652<img width="1279" height="689" 
