@@ -1,8 +1,5 @@
 # Simon Latham
 
-<img width="639" height="344" alt="468308255_10162493781588336_3926492237801054751_n" src="https://github.com/user-attachments/assets/ea290178-d244-4508-a712-e14c311327d2" />
-
-
 Electronic artist active across three decades, from the UK progressive house era to modern trance and vocal-led collaborations.
 
 ---
@@ -44,6 +41,7 @@ Electronic artist active across three decades, from the UK progressive house era
 
 ### Thorisson, Simon Latham & Robert Darry – “Here We Are”
 - Played on *A State of Trance* Episode 802
+<img width="319" height="172" alt="468308255_10162493781588336_3926492237801054751_n" src="https://github.com/user-attachments/assets/ea290178-d244-4508-a712-e14c311327d2" />
 
 ---
 
